@@ -1,4 +1,6 @@
 streamlit
 pandas
-matplotlib
-seaborn
+numpy
+plotly
+scipy==1.14.1
+chardet
